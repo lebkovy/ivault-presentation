@@ -1,0 +1,249 @@
+@font-face {
+  font-family: SF Pro Thin;
+  src: url(../assets/SF-Pro-Display-Thin.otf);
+}
+@font-face {
+  font-family: SF Pro Regular;
+  src: url(../assets/SF-Pro-Display-Regular.otf);
+}
+@font-face {
+  font-family: SF Pro Display;
+  src: url(../assets/SF-Pro-Display-Medium.otf);
+}
+@font-face {
+  font-family: SF Pro Bold;
+  src: url(../assets/SF-Pro-Display-Bold.otf);
+}
+.logo {
+  margin-left: 15%;
+  width: 200px;
+}
+
+.container {
+  display: none;
+}
+
+body {
+  background-color: #0D1321;
+  color: #0D1321;
+  padding: 0;
+  margin: 0;
+  font-family: SF Pro Display, sans-serif;
+}
+
+.too-small {
+  overflow-y: hidden;
+  z-index: 99;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-color: #A236F6;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.too-small h3 {
+  text-align: center;
+  color: white;
+  font-family: SF Pro Bold, sans-serif;
+  font-size: 32px;
+}
+
+.footer {
+  width: 100%;
+  padding: 24px;
+  height: 40%;
+}
+
+.header {
+  display: flex;
+  height: 35%;
+  color: white;
+  background-color: #63D7FA;
+  clip-path: polygon(0 0, 100% 0, 100% 65%, 0 85%);
+}
+.header .hero-image {
+  height: 35%;
+  width: 50%;
+}
+.header .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  margin-left: 48px;
+}
+.header .content .title {
+  font-size: 36px;
+  font-family: SF Pro Bold, sans-serif;
+}
+.header .content .body {
+  margin-top: 16px;
+  font-size: 18px;
+  font-family: SF Pro Regular, sans-serif;
+}
+.header .content .body span {
+  font-family: SF Pro Bold, sans-serif;
+  font-size: 24px;
+}
+
+.pill {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 50%;
+  z-index: 0;
+}
+.pill p {
+  text-align: center;
+  color: white;
+  margin: 12px 0 0 0;
+}
+.pill .heading {
+  margin-bottom: 12px;
+  font-size: 26px;
+  font-family: SF Pro Bold, sans-serif;
+}
+.pill.main {
+  top: 45%;
+  left: 5%;
+  height: 200px;
+  border-bottom-right-radius: 0;
+  width: 200px;
+  background-color: #63D7FA;
+  padding: 16px;
+}
+.pill.secondary {
+  top: 4%;
+  right: 2%;
+  height: 150px;
+  width: 150px;
+  border-bottom-left-radius: 0;
+  background: #EC68C4;
+}
+.pill.third {
+  position: static;
+  height: 100px;
+  width: 100px;
+  margin-left: 5%;
+  background: #A236F6;
+  border-top-right-radius: 0;
+}
+
+.description {
+  color: white;
+  padding-left: 30%;
+  padding-right: 20%;
+  font-family: SF Pro Regular, sans-serif;
+}
+.description h3 {
+  font-family: SF Pro Bold, sans-serif;
+  font-size: 32px;
+}
+.description p {
+  font-size: 22px;
+  line-height: 36px;
+  letter-spacing: 0.8px;
+  margin: 12px 0 12px 0;
+}
+
+.button {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300px;
+  height: 60px;
+  text-align: center;
+  background-color: #EC68C4;
+  border-radius: 28px;
+  font-size: 22px;
+  cursor: pointer;
+}
+.button.transparent {
+  color: #63D7FA;
+  border: 1px solid #63D7FA;
+  margin-left: 18px;
+  background-color: transparent;
+}
+
+.mockup {
+  position: absolute;
+  top: 20%;
+  max-width: 70%;
+  right: -30%;
+}
+
+.small {
+  font-size: 12px;
+  font-family: SF Pro Thin, sans-serif;
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.bottom-bar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #0D1321;
+  margin-bottom: 48px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.left {
+  background-color: #EC68C4;
+  background-image: url(../img/header.svg);
+  width: 100%;
+  height: 100vh;
+  background-size: 80%;
+  background-position: left center;
+  background-repeat: no-repeat;
+  overflow-y: hidden;
+}
+.left .right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 48px;
+  margin-left: 50%;
+  height: 100vh;
+  color: white;
+  text-align: right;
+  background-color: #0D1321;
+}
+.left .right .dot {
+  height: 10px;
+  width: 10px;
+  background-color: #EC68C4;
+  border-radius: 50%;
+  align-self: center;
+  margin-left: 12px;
+}
+.left .right .colored {
+  color: #63D7FA;
+}
+.left .right .item {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 6px;
+}
+.left .right h3 {
+  text-align: right;
+  margin-top: 0;
+  font-size: 32px;
+  font-family: SF Pro Bold, sans-serif;
+}
+
+@media only screen and (min-width: 1200px) {
+  .container {
+    display: block;
+  }
+
+  .too-small {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

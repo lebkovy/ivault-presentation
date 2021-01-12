@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab4b9a48-cb09-477f-9412-ad41d97339b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1mnR9QrxF6cgg4nx3MxFzMWge0W" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/ivault-present/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab4b9a48-cb09-477f-9412-ad41d97339b6" name="Default Changelist" comment="" />
+      <created>1610127217280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610127217280</updated>
+      <workItem from="1610127220396" duration="853000" />
+      <workItem from="1610128109456" duration="3345000" />
+      <workItem from="1610384882300" duration="10807000" />
+      <workItem from="1610471246949" duration="5924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="219" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610129360754">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="219" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1610129360754" />
+    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610127260055">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1610127260055" />
+    <state x="548" y="342" width="695" height="651" key="EditFileWatcherDialog" timestamp="1610128413408">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="548" y="342" width="695" height="681" key="EditFileWatcherDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1610128413408" />
+    <state x="1021" y="248" width="695" height="651" key="EditFileWatcherDialog/0.25.1792.1052@0.25.1792.1052" timestamp="1610128010391" />
+    <state width="1771" height="386" key="GridCell.Tab.0.bottom" timestamp="1610476594251">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594251" />
+    <state width="1771" height="386" key="GridCell.Tab.0.center" timestamp="1610476594249">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594249" />
+    <state width="1771" height="386" key="GridCell.Tab.0.left" timestamp="1610476594248">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594248" />
+    <state width="1771" height="386" key="GridCell.Tab.0.right" timestamp="1610476594250">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594250" />
+    <state width="1771" height="386" key="GridCell.Tab.1.bottom" timestamp="1610476594253">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594253" />
+    <state width="1771" height="386" key="GridCell.Tab.1.center" timestamp="1610476594252">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594252" />
+    <state width="1771" height="386" key="GridCell.Tab.1.left" timestamp="1610476594251">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594251" />
+    <state width="1771" height="386" key="GridCell.Tab.1.right" timestamp="1610476594252">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594252" />
+    <state width="1771" height="386" key="GridCell.Tab.2.bottom" timestamp="1610476594254">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594254" />
+    <state width="1771" height="386" key="GridCell.Tab.2.center" timestamp="1610476594253">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594253" />
+    <state width="1771" height="386" key="GridCell.Tab.2.left" timestamp="1610476594253">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594253" />
+    <state width="1771" height="386" key="GridCell.Tab.2.right" timestamp="1610476594254">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="386" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1610476594254" />
+    <state x="405" y="196" key="SettingsEditor" timestamp="1610130202627">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1610130202627" />
+    <state x="775" y="276" key="SettingsEditor/0.25.1792.1052@0.25.1792.1052" timestamp="1610128013698" />
+    <state x="1177" y="435" key="scopes" timestamp="1610127995500">
+      <screen x="0" y="25" width="1792" height="1052" />
+    </state>
+    <state x="1177" y="435" key="scopes/0.25.1792.1052@0.25.1792.1052" timestamp="1610127995500" />
+  </component>
+</project>
