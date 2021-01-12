@@ -34,6 +34,7 @@ $main-pill-size: 20%;
 body {
   background-color: $main-color;
   color: $main-color;
+  overflow-x: hidden;
   padding: 0;
   margin: 0;
   font-family: SF Pro Display, sans-serif;
@@ -174,7 +175,7 @@ body {
 .mockup {
   position: absolute;
   top: 20%;
-  max-width: 70%;
+  width: 70%;
   right: -30%;
 }
 .small {

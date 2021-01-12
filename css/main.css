@@ -26,6 +26,7 @@
 body {
   background-color: #0D1321;
   color: #0D1321;
+  overflow-x: hidden;
   padding: 0;
   margin: 0;
   font-family: SF Pro Display, sans-serif;
@@ -171,7 +172,7 @@ body {
 .mockup {
   position: absolute;
   top: 20%;
-  max-width: 70%;
+  width: 70%;
   right: -30%;
 }
 
